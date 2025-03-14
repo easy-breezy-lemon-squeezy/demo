@@ -3,145 +3,125 @@
     {
       "id": 1,
       "title": "Understanding React Hooks",
-      "body": "React Hooks revolutionized the way we write components in React by allowing us to use state and other React features without writing a class."
+      "body": "Learn how React Hooks simplify state management."
     },
     {
       "id": 2,
       "title": "Advanced JavaScript Techniques",
-      "body": "Exploring closures, promises, and async/await can significantly improve your JavaScript coding skills."
+      "body": "Explore closures, promises, and async/await."
     },
     {
       "id": 3,
       "title": "CSS Grid vs Flexbox",
-      "body": "A comprehensive comparison between CSS Grid and Flexbox, helping you decide which to use in your layouts."
+      "body": "Compare CSS Grid and Flexbox for layout design."
     },
     {
       "id": 4,
       "title": "Node.js Best Practices",
-      "body": "Learn the best practices for building efficient and scalable Node.js applications."
+      "body": "Best practices for building scalable Node.js apps."
     },
     {
       "id": 5,
       "title": "Progressive Web Apps",
-      "body": "Understanding PWAs and how they can be used to build fast, reliable, and engaging web applications."
+      "body": "Understand PWAs and their benefits."
     },
     {
       "id": 6,
       "title": "TypeScript for JavaScript Developers",
-      "body": "TypeScript adds optional static typing to JavaScript, improving the development experience and code quality."
+      "body": "TypeScript adds static typing to JavaScript."
     },
     {
       "id": 7,
       "title": "GraphQL Introduction",
-      "body": "GraphQL provides a more efficient, powerful and flexible alternative to REST."
+      "body": "GraphQL is a flexible alternative to REST."
     },
     {
       "id": 8,
       "title": "Docker for Developers",
-      "body": "Docker simplifies the process of managing application dependencies and deployment."
+      "body": "Docker simplifies app deployment."
     },
     {
       "id": 9,
       "title": "Kubernetes Basics",
-      "body": "An introduction to Kubernetes, the leading container orchestration tool."
+      "body": "Learn the basics of Kubernetes."
     },
     {
       "id": 10,
       "title": "Machine Learning with Python",
-      "body": "Python is one of the most popular languages for machine learning due to its simplicity and the vast ecosystem of libraries."
+      "body": "Python is popular for ML development."
     },
     {
       "id": 11,
       "title": "Exploring Vue.js",
-      "body": "Vue.js is a progressive framework for building user interfaces, designed to be incrementally adoptable."
+      "body": "Vue.js is a progressive JavaScript framework."
     },
     {
       "id": 12,
       "title": "Effective Code Reviews",
-      "body": "Best practices for conducting code reviews that improve code quality and team collaboration."
+      "body": "Best practices for code reviews."
     },
     {
       "id": 13,
       "title": "Introduction to WebAssembly",
-      "body": "WebAssembly allows you to run high-performance code in the browser, opening up new possibilities for web applications."
+      "body": "WebAssembly enables high-performance web apps."
     },
     {
       "id": 14,
       "title": "Getting Started with Svelte",
-      "body": "Svelte is a modern JavaScript framework that compiles components into highly efficient vanilla JavaScript."
+      "body": "Svelte compiles components to vanilla JS."
     },
     {
       "id": 15,
       "title": "REST API Design Best Practices",
-      "body": "Learn how to design RESTful APIs that are scalable, maintainable, and easy to use."
+      "body": "Design scalable and maintainable REST APIs."
     },
     {
       "id": 16,
       "title": "Introduction to Deno",
-      "body": "Deno is a secure runtime for JavaScript and TypeScript, built by the creator of Node.js."
+      "body": "Deno is a secure runtime for JS and TS."
     },
     {
       "id": 17,
       "title": "Mastering Async/Await",
-      "body": "Async/await simplifies asynchronous programming in JavaScript, making code more readable and maintainable."
+      "body": "Simplify async code with async/await."
     },
     {
       "id": 18,
       "title": "CSS Variables: A Complete Guide",
-      "body": "CSS variables allow you to create dynamic and reusable styles in your stylesheets."
+      "body": "Use CSS variables for dynamic styles."
     },
     {
       "id": 19,
       "title": "Introduction to WebSockets",
-      "body": "WebSockets enable real-time communication between clients and servers, perfect for chat apps and live updates."
+      "body": "WebSockets enable real-time communication."
     },
     {
       "id": 20,
       "title": "Building Scalable Microservices",
-      "body": "Microservices architecture allows you to build scalable and maintainable applications by breaking them into smaller, independent services."
+      "body": "Microservices improve app scalability."
     }
   ],
   "comments": [
-    { "id": 1, "body": "Great introduction to hooks!", "postId": 1 },
-    { "id": 2, "body": "Can you provide more examples?", "postId": 1 },
-    { "id": 3, "body": "Very useful comparison, thanks!", "postId": 3 },
-    { "id": 4, "body": "Node.js is powerful but tricky.", "postId": 4 },
-    { "id": 5, "body": "PWAs are the future of web apps.", "postId": 5 },
-    {
-      "id": 6,
-      "body": "TypeScript has really improved our project.",
-      "postId": 6
-    },
-    { "id": 7, "body": "GraphQL simplifies data fetching.", "postId": 7 },
-    { "id": 8, "body": "Docker has changed how we deploy.", "postId": 8 },
-    { "id": 9, "body": "Kubernetes is complex but worth it.", "postId": 9 },
-    { "id": 10, "body": "Python makes ML accessible.", "postId": 10 },
-    { "id": 11, "body": "Vue.js is so easy to integrate.", "postId": 11 },
-    {
-      "id": 12,
-      "body": "Code reviews are essential for quality.",
-      "postId": 12
-    },
-    { "id": 13, "body": "WebAssembly is a game-changer!", "postId": 13 },
-    { "id": 14, "body": "Svelte is so lightweight and fast.", "postId": 14 },
-    { "id": 15, "body": "REST APIs are still widely used.", "postId": 15 },
-    {
-      "id": 16,
-      "body": "Deno is a great alternative to Node.js.",
-      "postId": 16
-    },
-    { "id": 17, "body": "Async/await makes code so clean.", "postId": 17 },
-    { "id": 18, "body": "CSS variables are so powerful.", "postId": 18 },
-    {
-      "id": 19,
-      "body": "WebSockets are perfect for real-time apps.",
-      "postId": 19
-    },
-    {
-      "id": 20,
-      "body": "Microservices are great for scalability.",
-      "postId": 20
-    }
+    { "id": 1, "body": "Great intro to React Hooks!", "postId": 1 },
+    { "id": 2, "body": "More examples, please.", "postId": 1 },
+    { "id": 3, "body": "Useful comparison!", "postId": 3 },
+    { "id": 4, "body": "Node.js is powerful.", "postId": 4 },
+    { "id": 5, "body": "PWAs are the future.", "postId": 5 },
+    { "id": 6, "body": "TypeScript is awesome.", "postId": 6 },
+    { "id": 7, "body": "GraphQL is flexible.", "postId": 7 },
+    { "id": 8, "body": "Docker is a game-changer.", "postId": 8 },
+    { "id": 9, "body": "Kubernetes is complex.", "postId": 9 },
+    { "id": 10, "body": "Python is great for ML.", "postId": 10 },
+    { "id": 11, "body": "Vue.js is easy to use.", "postId": 11 },
+    { "id": 12, "body": "Code reviews are essential.", "postId": 12 },
+    { "id": 13, "body": "WebAssembly is powerful.", "postId": 13 },
+    { "id": 14, "body": "Svelte is lightweight.", "postId": 14 },
+    { "id": 15, "body": "REST APIs are widely used.", "postId": 15 },
+    { "id": 16, "body": "Deno is a great alternative.", "postId": 16 },
+    { "id": 17, "body": "Async/await is clean.", "postId": 17 },
+    { "id": 18, "body": "CSS variables are useful.", "postId": 18 },
+    { "id": 19, "body": "WebSockets are real-time.", "postId": 19 },
+    { "id": 20, "body": "Microservices scale well.", "postId": 20 }
   ],
   "profile": {
     "name": "typicode"
